@@ -1,0 +1,1 @@
+export const icons = "p-2 text-[20px] text-neutral-500 ml-2 cursor-pointer hover:bg-neutral-900 rounded-full"
