@@ -1,4 +1,4 @@
-Weebcgat-App
+
 WebChat App is a real-time chat application built with Firebase, Firestore, Realtime Database, React.js, React Icons, Tailwind CSS, and Emoji Mart. It allows users to chat in different rooms, delete messages, react to messages, and use emojis.
 
 Features - 
